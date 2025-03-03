@@ -1,0 +1,7 @@
+Flask
+requests
+openai
+gunicorn
+newspaper3k
+beautifulsoup4
+lxml
